@@ -1,3 +1,3 @@
-module github.com/yoichi/greeting_/greeting
+module github.com/yoichi/greeting/greeting
 
 go 1.24.4
